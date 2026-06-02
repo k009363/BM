@@ -8,3 +8,4 @@ requests==2.31.0
 pymongo==4.7.2
 cloudinary==1.40.0
 pywebpush==2.0.0
+gunicorn==22.0.0
