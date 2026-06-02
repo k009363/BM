@@ -173,12 +173,6 @@ python seed.py           # seed if empty
 python seed.py --reset   # clear all data and reseed
 ```
 
-Demo accounts (password: `password123`):
-```
-admin@demo.com   alice@demo.com   bob@demo.com
-clara@demo.com   david@demo.com   eva@demo.com
-```
-
 ---
 
 ## Project Structure
