@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "group-00001",
+    "name": "Bloggers Hub",
+    "description": "A place for bloggers to chat and share ideas.",
+    "avatar": "https://ui-avatars.com/api/?name=Bloggers+Hub&background=7c3aed&color=fff&bold=true&size=128",
+    "admin_id": "u-alice-0002",
+    "created_at": "2026-05-19T04:00:29Z",
+    "updated_at": "2026-05-19T04:00:29Z"
+  }
+]

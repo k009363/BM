@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "uf-0001",
+    "follower_id": "u-alice-0002",
+    "followed_id": "u-bob-00003",
+    "created_at": "2026-05-07T04:00:29Z"
+  },
+  {
+    "_id": "uf-0002",
+    "follower_id": "u-alice-0002",
+    "followed_id": "u-clara-004",
+    "created_at": "2026-05-11T04:00:29Z"
+  },
+  {
+    "_id": "uf-0003",
+    "follower_id": "u-alice-0002",
+    "followed_id": "u-david-005",
+    "created_at": "2026-05-14T04:00:29Z"
+  },
+  {
+    "_id": "uf-0004",
+    "follower_id": "u-bob-00003",
+    "followed_id": "u-alice-0002",
+    "created_at": "2026-05-07T04:00:29Z"
+  },
+  {
+    "_id": "uf-0005",
+    "follower_id": "u-bob-00003",
+    "followed_id": "u-eva-00006",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "uf-0006",
+    "follower_id": "u-bob-00003",
+    "followed_id": "u-david-005",
+    "created_at": "2026-05-14T04:00:29Z"
+  },
+  {
+    "_id": "uf-0007",
+    "follower_id": "u-clara-004",
+    "followed_id": "u-alice-0002",
+    "created_at": "2026-05-11T04:00:29Z"
+  },
+  {
+    "_id": "uf-0008",
+    "follower_id": "u-clara-004",
+    "followed_id": "u-bob-00003",
+    "created_at": "2026-05-12T04:00:29Z"
+  },
+  {
+    "_id": "uf-0009",
+    "follower_id": "u-clara-004",
+    "followed_id": "u-eva-00006",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "uf-0010",
+    "follower_id": "u-david-005",
+    "followed_id": "u-alice-0002",
+    "created_at": "2026-05-14T04:00:29Z"
+  },
+  {
+    "_id": "uf-0011",
+    "follower_id": "u-david-005",
+    "followed_id": "u-eva-00006",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "uf-0012",
+    "follower_id": "u-david-005",
+    "followed_id": "u-bob-00003",
+    "created_at": "2026-05-15T04:00:29Z"
+  },
+  {
+    "_id": "uf-0013",
+    "follower_id": "u-eva-00006",
+    "followed_id": "u-alice-0002",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "uf-0014",
+    "follower_id": "u-eva-00006",
+    "followed_id": "u-clara-004",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "uf-0015",
+    "follower_id": "u-eva-00006",
+    "followed_id": "u-david-005",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "uf-0016",
+    "follower_id": "u-admin-0001",
+    "followed_id": "u-alice-0002",
+    "created_at": "2026-05-04T04:00:29Z"
+  },
+  {
+    "_id": "uf-0017",
+    "follower_id": "u-admin-0001",
+    "followed_id": "u-bob-00003",
+    "created_at": "2026-05-07T04:00:29Z"
+  }
+]

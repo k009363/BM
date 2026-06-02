@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "gm-0001",
+    "group_id": "group-00001",
+    "user_id": "u-alice-0002",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "gm-0002",
+    "group_id": "group-00001",
+    "user_id": "u-bob-00003",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "gm-0003",
+    "group_id": "group-00001",
+    "user_id": "u-clara-004",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "gm-0004",
+    "group_id": "group-00001",
+    "user_id": "u-david-005",
+    "created_at": "2026-05-19T04:00:29Z"
+  },
+  {
+    "_id": "gm-0005",
+    "group_id": "group-00001",
+    "user_id": "u-eva-00006",
+    "created_at": "2026-05-19T04:00:29Z"
+  }
+]

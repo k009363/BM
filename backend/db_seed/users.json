@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "u-admin-0001",
+    "name": "Admin User",
+    "email": "admin@demo.com",
+    "password_hash": "$2b$12$Qa4MexP0mePMJsMLj2qna.VGoRSPcZWAoYUOAzXgP8fHAp1fDlDIa",
+    "bio": "Platform administrator.",
+    "profile_pic": "https://ui-avatars.com/api/?name=Admin+User&background=7c3aed&color=fff&bold=true&size=128",
+    "role": "admin",
+    "is_active": "True",
+    "created_at": "2026-04-29T04:00:29Z",
+    "updated_at": "2026-04-29T04:00:29Z"
+  },
+  {
+    "_id": "u-alice-0002",
+    "name": "Alice Johnson",
+    "email": "alice@demo.com",
+    "password_hash": "$2b$12$Qa4MexP0mePMJsMLj2qna.VGoRSPcZWAoYUOAzXgP8fHAp1fDlDIa",
+    "bio": "Full-stack developer. Love React and Python. Writing about tech and life.",
+    "profile_pic": "https://ui-avatars.com/api/?name=Alice+Johnson&background=7c3aed&color=fff&bold=true&size=128",
+    "role": "user",
+    "is_active": "True",
+    "created_at": "2026-05-04T04:00:29Z",
+    "updated_at": "2026-05-04T04:00:29Z"
+  },
+  {
+    "_id": "u-bob-00003",
+    "name": "Bob Smith",
+    "email": "bob@demo.com",
+    "password_hash": "$2b$12$Qa4MexP0mePMJsMLj2qna.VGoRSPcZWAoYUOAzXgP8fHAp1fDlDIa",
+    "bio": "Designer & illustrator. I write about UX, creativity, and minimalism.",
+    "profile_pic": "https://ui-avatars.com/api/?name=Bob+Smith&background=7c3aed&color=fff&bold=true&size=128",
+    "role": "user",
+    "is_active": "True",
+    "created_at": "2026-05-07T04:00:29Z",
+    "updated_at": "2026-05-07T04:00:29Z"
+  },
+  {
+    "_id": "u-clara-004",
+    "name": "Clara Davis",
+    "email": "clara@demo.com",
+    "password_hash": "$2b$12$Qa4MexP0mePMJsMLj2qna.VGoRSPcZWAoYUOAzXgP8fHAp1fDlDIa",
+    "bio": "Travel blogger and photographer. Visited 42 countries and counting.",
+    "profile_pic": "https://ui-avatars.com/api/?name=Clara+Davis&background=7c3aed&color=fff&bold=true&size=128",
+    "role": "user",
+    "is_active": "True",
+    "created_at": "2026-05-11T04:00:29Z",
+    "updated_at": "2026-05-11T04:00:29Z"
+  },
+  {
+    "_id": "u-david-005",
+    "name": "David Lee",
+    "email": "david@demo.com",
+    "password_hash": "$2b$12$Qa4MexP0mePMJsMLj2qna.VGoRSPcZWAoYUOAzXgP8fHAp1fDlDIa",
+    "bio": "ML engineer and open-source contributor. Obsessed with data.",
+    "profile_pic": "https://ui-avatars.com/api/?name=David+Lee&background=7c3aed&color=fff&bold=true&size=128",
+    "role": "user",
+    "is_active": "True",
+    "created_at": "2026-05-14T04:00:29Z",
+    "updated_at": "2026-05-14T04:00:29Z"
+  },
+  {
+    "_id": "u-eva-00006",
+    "name": "Eva Martinez",
+    "email": "eva@demo.com",
+    "password_hash": "$2b$12$Qa4MexP0mePMJsMLj2qna.VGoRSPcZWAoYUOAzXgP8fHAp1fDlDIa",
+    "bio": "Startup founder. Writing about entrepreneurship, product, and growth.",
+    "profile_pic": "https://ui-avatars.com/api/?name=Eva+Martinez&background=7c3aed&color=fff&bold=true&size=128",
+    "role": "user",
+    "is_active": "True",
+    "created_at": "2026-05-19T04:00:29Z",
+    "updated_at": "2026-05-19T04:00:29Z"
+  }
+]
